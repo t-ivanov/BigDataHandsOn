@@ -14,9 +14,12 @@ List of online courses, tutorials, videos and links on Big Data and related topi
 
 ## <a name='hadoop-ecosys'> Hadoop Ecosystem
 
-* [Installing and Using Cloudera Impala] (http://www.cloudera.com/content/cloudera/en/documentation/cloudera-impala/v1/latest/PDF/Installing-and-Using-Impala.pdf)(2014)
+* [Installing and Using Cloudera Impala] (http://www.cloudera.com/content/cloudera/en/documentation/cloudera-impala/v1/latest/PDF/Installing-and-Using-Impala.pdf) (2014)
 
 * [Spark Training Materials](https://spark.apache.org/documentation.html) 
+* [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
+* [How-to: Translate from MapReduce to Apache Spark (Part 2)](http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/)
+* [A guide to Apache's Spark Streaming](http://opensource.com/business/15/4/guide-to-apache-spark-streaming)
 
 
 ## <a name='data-science'> Data Science
