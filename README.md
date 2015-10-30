@@ -21,6 +21,11 @@ List of online courses, tutorials, videos and links on Big Data and related topi
 * [How-to: Translate from MapReduce to Apache Spark (Part 2)](http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/)
 * [A guide to Apache's Spark Streaming](http://opensource.com/business/15/4/guide-to-apache-spark-streaming)
 
+## <a name='benchmarking'> Benchmarking
+
+* [TPC-H]
+[Implementation TPC-H schema into MySQL DBMS] (https://sites.google.com/site/halitsch88/Implementation-TPC-H-schema-into-MySQL-DBMS) & [Code] (https://github.com/xinglin/tpch) 
+
 
 ## <a name='data-science'> Data Science
 
