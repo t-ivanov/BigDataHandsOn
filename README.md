@@ -32,3 +32,4 @@ List of online courses, tutorials, videos and links on Big Data and related topi
 ## <a name='prog-lang'> Programing Languages
 
 * [Learn Python] (http://www.pythonlearn.com/) & [Programming for Everybody] (https://www.coursera.org/course/pythonlearn)
+* [Python Resources] (https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
